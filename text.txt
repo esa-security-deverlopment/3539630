@@ -1,1 +1,1 @@
-working-copy://x-callback-url/move/?repo=my%20repo&source=from.txt&destination=to.txt
+working-copy://x-callback-url/zip/?x-success=my-app://x-callback-url/read?path=/&repo=my%20repo 
