@@ -1,0 +1,6 @@
+Added template to the procedure (#754)
+
+Added template to the procedure
+
+https://github.com/chocolatey-community/chocolatey-package-requests/commit/cb79751b521eb5cc8679e2177dcc6b89201c5b0c
+
